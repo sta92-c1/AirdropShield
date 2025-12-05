@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\gateway-dynamic.py
+// Generated at: 2025-10-25T17:02:17.710Z
